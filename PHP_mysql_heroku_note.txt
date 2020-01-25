@@ -1,0 +1,6 @@
+Apache is a web server
+MySQL is a database server. 
+File zilla FTP client
+Tom cat is a web server for java
+Any machine you are on is referred to as local host
+Web base mysql administration local
